@@ -29,13 +29,6 @@ Hi, I’m Mark. I’m Interested In Developing For Apple Systems. Currently I Am
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
 <br/>
 
-#
-
-<!--GitHub Stats-->
-### 📊 Stats
-
-![markydoodled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markydoodled&show_icons=true&theme=gruvbox)
-
 <!---
 markydoodled/markydoodled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
