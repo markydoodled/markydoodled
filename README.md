@@ -5,7 +5,7 @@
 **`Digital Tinkerer`**
 
 <!--Description-->
-Hi, I’m Mark. I’m Interested In Developing For The Apple Ecosystem. Currently I Am Learning Swift And SwiftUI. I’m Always Looking To Collaborate On SwiftUI Projects With The Community To Advance My Skills, And Am Always Happy To Help With Trying To Diagnose Bugs Or Suggest Ideas.
+Hi, I’m Mark! I’m Interested In Developing For The Apple Ecosystem. Currently I Am Learning Swift And SwiftUI. I’m Always Looking To Collaborate On SwiftUI Projects With The Community To Advance My Skills, And Am Always Happy To Help With Trying To Diagnose Bugs Or Suggest Ideas.
 
 <!--Github Action Buttons-->
 <p align="left">
@@ -26,6 +26,11 @@ Hi, I’m Mark. I’m Interested In Developing For The Apple Ecosystem. Currentl
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"/>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg"/>
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg"/>
 <br/>
 
 <!---
