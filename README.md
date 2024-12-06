@@ -5,7 +5,7 @@
 **`Digital Tinkerer`**
 
 <!--Description-->
-Hi, I’m Mark! I’m Interested In Developing For The Apple Ecosystem. Currently I Am Learning Swift And SwiftUI. I’m Always Looking To Collaborate On SwiftUI Projects With The Community To Advance My Skills, And Am Always Happy To Help With Trying To Diagnose Bugs Or Suggest Ideas.
+Hi, I’m Mark! I’m Interested In And Develop For The Apple Ecosystem. Currently I Use Swift And SwiftUI. I’m Always Looking To Collaborate On SwiftUI Projects With The Community To Advance My Skills, And I'm Always Happy To Help With Diagnosing Bugs Or Suggesting Ideas. Contact Me To Commission My Services!
 
 <!--Github Action Buttons-->
 <p align="left">
